@@ -1,0 +1,40 @@
+# ========================================
+# Altium Designer .gitignore
+# ========================================
+
+History/
+__Previews/
+
+Project Outputs*/
+ProjectOutputs/
+Outputs/
+*.cam
+*.gbr
+*.drl
+*.g*
+*.xln
+*.txt
+*.csv
+*.xls
+*.xlsx
+
+*.log
+*.htm
+*.html
+*.REP
+*.DRC
+*.ERC
+*.err
+
+*.NET                 
+*.PrjPcbStructure     
+*.zip                 
+*.rar
+
+*.pdf
+
+~$*
+~*.*
+
+*.DsnWrk
+*.PrjPcb.Saved
