@@ -25,6 +25,8 @@ Outputs/
 *.DRC
 *.ERC
 *.err
+*.ini
+*.emf
 
 *.NET                 
 *.PrjPcbStructure     
